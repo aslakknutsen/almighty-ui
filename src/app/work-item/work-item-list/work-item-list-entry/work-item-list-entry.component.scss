@@ -2,7 +2,7 @@
 
 .list-group-item {
   cursor: pointer;
-  font-size: rem(12);
+  font-size: $font-size-large;
   align-items: center;
   .row-cbh {
     margin-right: em(10);
